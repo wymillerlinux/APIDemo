@@ -257,6 +257,9 @@ namespace Demo_WebAPI_Weather
             WeatherData currentWeatherData = await GetCurrentWeatherDataZipAsync(zip);
             
             Console.WriteLine(String.Format("Temperature (Fahrenheit): {0:0.0}", ConvertToFahrenheit(currentWeatherData.Main.Temp)));
+            Console.WriteLine(String.Format("Temperature (Celsius): {0:0.0}", currentWeatherData.Main.Temp));
+            Console.WriteLine(String.Format("Pressure: {0} pascals", currentWeatherData.Main.Pressure));
+            Console.WriteLine(String.Format("Humidity: {0} grams/cubic meter", currentWeatherData.Main.Humidity));
             Console.WriteLine(String.Format("Longitude: {0}", currentWeatherData.Coord.Lon));
             Console.WriteLine(String.Format("Latitude: {0}", currentWeatherData.Coord.Lat));
             

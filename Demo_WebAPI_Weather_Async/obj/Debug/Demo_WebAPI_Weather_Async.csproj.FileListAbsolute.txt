@@ -1,0 +1,9 @@
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\bin\Debug\Demo_WebAPI_Weather_Async.exe.config
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\bin\Debug\Demo_WebAPI_Weather_Async.exe
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\bin\Debug\Demo_WebAPI_Weather_Async.pdb
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\obj\Debug\Demo_WebAPI_Weather_Async.csprojResolveAssemblyReference.cache
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\obj\Debug\Demo_WebAPI_Weather_Async.csproj.CoreCompileInputs.cache
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\obj\Debug\Demo_WebAPI_Weather_Async.exe
+C:\Users\mill1159\Desktop\APIDemo\Demo_WebAPI_Weather_Async\obj\Debug\Demo_WebAPI_Weather_Async.pdb
