@@ -1,0 +1,7 @@
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/bin/Debug/Demo_WebAPI_Weather_Async.exe.config
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/bin/Debug/Demo_WebAPI_Weather_Async.exe.mdb
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/bin/Debug/Demo_WebAPI_Weather_Async.exe
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/obj/Debug/Demo_WebAPI_Weather_Async.exe
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/obj/Debug/Demo_WebAPI_Weather_Async.exe.mdb
+/home/wyatt/Source/Demo_WebAPI_Weather/Demo_WebAPI_Weather_Async/bin/Debug/Newtonsoft.Json.dll
